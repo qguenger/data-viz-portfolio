@@ -1,32 +1,17 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# TSWD-portfolio-templates
-Portfolio templates for setting up your Telling Stories with Data site.  Edit these pages as you like for your own portfolio!  
-Sometimes it's helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
+# About Me 🐩
+Welcome to my data portfolio! My name is Quintessa Guengerich, and I an artist, ex-engineer, and aspiring data scientist. My favorite thing is merging all of those talents together in the form of data visualization! And my other favorite thing is my poodle. And she's not even a "good" dog, so you'd be right to guess I take pleasure in simple things. I digress.
 
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
+# Goals & Aspirations 🎓
+As I continue my data visualization journey, I am most focused on how to do the following:
+- Distinguish *what* story a dataset contains
+- *How* to tell the story
+- and how to tell the story **better**.
 
-# Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+Professionally, I want to apply these skills at a not-for-profit organization with a proven track record of fighting for civil liberties, rights, justice, and equality.
 
-# About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
-
-# What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
-
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
-
-# Portfolio
+# Portfolio 📊
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
