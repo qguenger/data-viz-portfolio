@@ -1,36 +1,38 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
+# Hate Crime in the United States: Dispelling Myths and Mobilizing Action
+Hate and hate crime in the United States is not well-understood. This is for a few reasons. First, hate incidents are known to be under-reported, with the National Crime Victimization Survey estimating only 50-65% of hate crimes resulting in a report. Second, police precincts are not required by federal law to provide their hate crime data to the FBI. This means two bottlenecks exist in the most comprehensive data set -- the *type of person* who would report a hate crime, depending on *if the police precinct* provides their data to the FBI.
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
+The resulting dataset is not representative of the truth about hate crime occurences in the United States.
 
-# Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
+This lack of information matters. Hate crimes have victims who need access to physical and mental health resources. Hate crimes also have perpetrators who need to be understood so that interventions and preventative measures can be instated. Our lack of data makes a true needs assessment for any given community impossible -- and worse, the data that does exist may result in allocating resources on a basis that is *not* needs-based.
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+In this project, I am going to walk you through the data as it currently exists to establish what we *do* know: what's not true. 
 
-Text here...
+First, we will look at the United States as a whole, before narrowing in on different communities throughout the United States to build an understanding of just how different hate crime landscapes can look, and discuss what information might be missing.
+
+Finally, we will discuss what better hate crime reporting might look like, and what preventative solutions might look like moving forward with and without a comprehensive understanding.
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+1. Chloropleth of Hate Crimes Per Capita by County: Hate Crime is not just in the Southern States [Look at Columbus and Akron Ohio]
+2. Sankey diagram of hate crime perpetrators and victims nation-wide, and in Mount Vernon: Hate Crime is not a monolith and is circumstantial 
+3. Tree plots of total hate crime counts and per capita hate crime counts: Hate Crime is not just against racial minorities, *but* the data that exists suggests that they are more susceptible 
 
-Text here...
+![sketches](PXL_20240925_003723210.MP.jpg)
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+I am using census data, FBI hate crime data, and the National Crime Victimization Survey data.
 
-Text here...
-
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
-
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+| Name | URL |
+|------|-----|
+| Census    | https://data.census.gov/ | 
+| FBI   |  https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/ucr/hate-crime |
+| NCVS    |  https://bjs.ojp.gov/library/publications/hate-crime-victimization-2005-2019 |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+I plan to use python and shorthand to tell this story and write in VSCode and publish to Github.
 
-Text here...
+# Bibliography
+
+Kena, Grace. “Hate Crime Victimization, 2005–2019.” National Crime Victimization Survey, September 2021, 24.
+
