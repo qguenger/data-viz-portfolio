@@ -24,7 +24,7 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 
 ## Final project
 
-[Part I](final-project-part-one)
+[Part I](#final-project-part-one)
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 
