@@ -10,4 +10,4 @@ As I continue my data visualization journey, I am most focused on how to do the 
 Professionally, I want to apply these skills at a not-for-profit organization with a proven track record of fighting for civil liberties, rights, and justice, to build data-informed policy.
 
 # Portfolio 📊
-[Hate Crimes in the United States](/data-viz-portfolio/hate_crimes_per_capita.html)
+[Hate Crimes in the United States](/hate_crimes_per_capita.html)
