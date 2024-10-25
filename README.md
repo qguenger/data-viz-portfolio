@@ -1,4 +1,4 @@
-| [home page](https://qguenger.github.io/data-viz-portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://qguenger.github.io/data-viz-portfolio/) | [Hate Crime in the US](hate-crime-in-the-united-states) | 
 
 # About Me 🐩
 Welcome to my data portfolio! My name is Quintessa Guengerich, and I an artist, ex-engineer, and aspiring data scientist. My favorite thing is merging all of those talents together in the form of data visualization! And my other favorite thing is my poodle. And she's not even a "good" dog, so you'd be right to guess I take pleasure in simple things. I digress.
@@ -13,7 +13,7 @@ Professionally, I want to apply these skills at a not-for-profit organization wi
 
 # Portfolio 📊
 
-## Hate Crime in the Unied States
+## Hate Crime in the United States
 
 [Part I](final-project-part-one)
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
