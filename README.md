@@ -15,8 +15,7 @@ Professionally, I want to apply these skills at a not-for-profit organization wi
 
 ## Hate Crime in the United States
 
-[Part I](final-project-part-one)
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [Hate Crime in the US](hate-crime-in-the-united-states) 
+[About Me](about-me) | [Hate Crime in the US](hate-crime-in-the-united-states) 
 
 # Hate Crime in the United States: Dispelling Myths and Mobilizing Action
 Hate and hate crime in the United States is not well-understood. This is for a few reasons. First, hate incidents are known to be under-reported, with the National Crime Victimization Survey estimating only 50-65% of hate crimes resulting in a report. Second, police precincts are not required by federal law to provide their hate crime data to the FBI. This means two bottlenecks exist in the most comprehensive data set -- the *type of person* who would report a hate crime, depending on *if the police precinct* provides their data to the FBI.
